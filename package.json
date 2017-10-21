@@ -1,0 +1,22 @@
+{
+  "name": "alexa-sleepsounds",
+  "version": "1.0.0",
+  "description": "My own custom sleepsounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donkawechico/alexa-sleepsounds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donkawechico/alexa-sleepsounds/issues"
+  },
+  "homepage": "https://github.com/donkawechico/alexa-sleepsounds#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.15"
+  }
+}
